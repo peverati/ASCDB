@@ -1,0 +1,12 @@
+#!/bin/bash
+#SBATCH --job-name {molecule}_{method}_{basis}.in 
+#SBATCH --nodes 1
+#SBATCH --ntasks 12
+#SBATCH --mem=20GB
+#SBATCH --time=1000:00:00
+#SBATCH --partition=eternity
+#SBATCH --error={molecule}_{method}_{basis}.err 
+#SBATCH --output={molecule}_{method}_{basis}.out 
+
+g16 {molecule}_{method}_{basis}.in > {molecule}_{method}_{basis}.log
+
