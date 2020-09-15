@@ -10,7 +10,7 @@
 
 A statistically significant database with a broad computational chemistry purpose.
 
-Morgante, P.; Peverati, R.; “Statistically representative databases for density functional theory via data science” Phys. Chem. Chem. Phys. 2019, 21, 19092-19103. [![DOI:10.1039/C9CP03211H](https://img.shields.io/badge/DOI-10.1039/C9CP03211H-990033)](https://doi.org/10.1039/C9CP03211H)
+Morgante, P.; Peverati, R.; “Statistically representative databases for density functional theory via data science” Phys. Chem. Chem. Phys. 2019, 21, 19092-19103. [![DOI:10.1039/C9CP03211H](https://img.shields.io/badge/DOI-10.1039/C9CP03211H-red)](https://doi.org/10.1039/C9CP03211H)
 
 ASCDB is a statistically significant database created  from the three largest computational chemistry databases: [GMTKN55](https://www.chemie.uni-bonn.de/pctc/mulliken-center/software/GMTKN/gmtkn55) by the Grimme and Goerigk groups, [MGCDB84](https://www.tandfonline.com/doi/full/10.1080/00268976.2017.1333644) by Mardirossian and Head-Gordon, and [Minnesota 2015B](https://comp.chem.umn.edu/db2015/) by the Truhlar group. Our group recently collected them in the [ACCDB](https://github.com/peverati/ACCDB) collection of databases. 
 
